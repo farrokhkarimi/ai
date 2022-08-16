@@ -1,22 +1,17 @@
 # ai
 Artificial Intelligence Fundamental Concepts
 
-
+# Image Processing
 [Image Processing with OpenCV](https://github.com/farrokhkarimi/OpenCV) [[Colab notebook link]](https://colab.research.google.com/github/farrokhkarimi/OpenCV/blob/master/Getting_Started_with_OpenCV.ipynb)
 
----
-
+# Fundamental Concepts
 [Natural Neural Network, Artificial Neural Network, and Deep Learning Fundamental Concepts](https://www.slideshare.net/FarrokhKarimi/deeplearningpdf-252552733)
 
----
-
+# Installation
 [TensorFlow installation guide](https://www.tensorflow.org/install)  
 [PyTorch installation guide](https://pytorch.org/get-started/locally/)
 
----
-
-**Deep Learning Tutorial:**
-
+# Deep Learning
 - [TensorFlow 2 quickstart](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/quickstart/beginner.ipynb)  
 -- [Built-in small datasets](https://keras.io/api/datasets/)  
 -- [Activation functions](https://keras.io/api/layers/activations/)  
@@ -31,15 +26,14 @@ Artificial Intelligence Fundamental Concepts
 -- [Load and preprocess images](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/load_data/images.ipynb)  
 -- Load CSV data
 
----
-
-# Appendix:
+# Appendix
 **To plot the model:**
 ```python3
 tf.keras.utils.plot_model(model, rankdir="TD", show_shapes=True)
 ```
 
----
-
 **tfds datasets:**  
 https://www.tensorflow.org/datasets/catalog/overview
+
+# Author
+https://farrokhkarimi.github.io/
