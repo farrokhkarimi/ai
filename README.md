@@ -23,8 +23,11 @@ Artificial Intelligence Fundamental Concepts
 - Load and preprocess data  
 -- [TensorFlow Datasets](https://colab.research.google.com/github/tensorflow/datasets/blob/master/docs/overview.ipynb)  
 -- [Load NumPy data](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/load_data/numpy.ipynb)  
--- [Load and preprocess images](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/load_data/images.ipynb)  
--- Load CSV data
+-- [Load and preprocess images](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/load_data/images.ipynb)    
+-- Load CSV data  
+-- Load a pandas DataFrame  
+- [Basic image classification](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/keras/classification.ipynb)  
+- [Convolutional Neural Network (CNN) + data augmentation](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/images/classification.ipynb) [[Textbook]](https://cs231n.github.io/convolutional-networks/)  
 
 # Appendix
 **To plot the model:**
