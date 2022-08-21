@@ -28,6 +28,7 @@ Artificial Intelligence Fundamental Concepts
 -- Load a pandas DataFrame  
 - [Basic image classification](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/keras/classification.ipynb)  
 - [Convolutional Neural Network (CNN) + data augmentation](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/images/classification.ipynb) [[Textbook]](https://cs231n.github.io/convolutional-networks/)  
+- [Transfer learning and fine-tuning](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/images/transfer_learning.ipynb)
 
 # Appendix
 **To plot the model:**
