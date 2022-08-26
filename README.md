@@ -27,10 +27,10 @@ Artificial Intelligence Fundamental Concepts
 -- Load CSV data  
 -- Load a pandas DataFrame  
 - [Basic image classification](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/keras/classification.ipynb)  
-- [Convolutional Neural Network (CNN)](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/images/classification.ipynb) [[Explainer]](https://poloclub.github.io/cnn-explainer/)  
+- [Convolutional Neural Network (CNN)](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/images/classification.ipynb) [[Paper]](https://arxiv.org/pdf/1511.08458.pdf) [[Explainer]](https://poloclub.github.io/cnn-explainer/)  
 - [Transfer learning and fine-tuning](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/images/transfer_learning.ipynb)  
-- [Autoencoders](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/autoencoder.ipynb)  
-- [Variational Autoencoder](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/cvae.ipynb)
+- [Autoencoders](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/autoencoder.ipynb) [[Paper]](https://arxiv.org/pdf/2003.05991.pdf)  
+- [Variational Autoencoder](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/cvae.ipynb) [[Paper]](https://arxiv.org/pdf/1906.02691.pdf)  
 
 # Appendix
 **To plot the model:**
