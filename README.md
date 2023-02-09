@@ -1,13 +1,13 @@
 # ai
 Artificial Intelligence Fundamental Concepts
 
+# Fundamental Concepts
+[Natural Neural Network, Artificial Neural Network, and Deep Learning Fundamental Concepts](https://drive.google.com/file/d/1YR66eg-dyoeWLCml2FzefykMhrH3bVoD/view?usp=sharing)
+
 # Image Processing
 [Image Processing with OpenCV](https://github.com/farrokhkarimi/OpenCV) [[Colab notebook link]](https://colab.research.google.com/github/farrokhkarimi/OpenCV/blob/master/Getting_Started_with_OpenCV.ipynb)
 
-# Fundamental Concepts
-[Natural Neural Network, Artificial Neural Network, and Deep Learning Fundamental Concepts](https://www.slideshare.net/FarrokhKarimi/deeplearningpdf-252552733)
-
-# Installation
+# TensorFlow and PyTorch Installation
 [TensorFlow installation guide](https://www.tensorflow.org/install)  
 [PyTorch installation guide](https://pytorch.org/get-started/locally/)
 
@@ -19,11 +19,13 @@ Artificial Intelligence Fundamental Concepts
 -- [Optimizers](https://keras.io/api/optimizers/)  
 -- [Metrics](https://keras.io/api/metrics/)  
 -- [Architectures](https://keras.io/api/applications/)  
--- [Callbacks](https://keras.io/api/callbacks/)  
-- Load and preprocess data  
+-- [Callbacks](https://keras.io/api/callbacks/) 
+- Loading and preprocessing data  
 -- [TensorFlow Datasets](https://colab.research.google.com/github/tensorflow/datasets/blob/master/docs/overview.ipynb)  
 -- [Load NumPy data](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/load_data/numpy.ipynb)  
--- [Load and preprocess images](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/load_data/images.ipynb)    
+-- [Load and preprocess images](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/load_data/images.ipynb)  
+
+<!---
 -- [Load CSV data]  
 -- [Load pandas DataFrame]  
 - [Basic image classification](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/keras/classification.ipynb)  
@@ -37,6 +39,8 @@ Artificial Intelligence Fundamental Concepts
 -- [CycleGAN]  
 - [Image segmentation with U-Net](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/images/segmentation.ipynb) [[Paper]](https://arxiv.org/pdf/1505.04597.pdf)  
 - [Recurrent Neural Networks (RNN)](https://colab.research.google.com/github/tensorflow/docs/blob/snapshot-keras/site/en/guide/keras/rnn.ipynb) [[Paper1]](https://arxiv.org/pdf/1808.03314.pdf) [[Paper2]](https://arxiv.org/ftp/arxiv/papers/1701/1701.05923.pdf) [[Textbook]](http://dprogrammer.org/rnn-lstm-gru)
+
+-->
 
 # Appendix
 **To plot the model:**
