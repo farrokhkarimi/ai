@@ -9,7 +9,8 @@ Artificial Intelligence Fundamental Concepts
 
 # TensorFlow and PyTorch Installation
 [TensorFlow installation guide](https://www.tensorflow.org/install)  
-[PyTorch installation guide](https://pytorch.org/get-started/locally/)
+[PyTorch installation guide](https://pytorch.org/get-started/locally/)  
+[Google Colab](https://colab.research.google.com/)
 
 # Deep Learning
 - [TensorFlow 2 quickstart](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/quickstart/beginner.ipynb)  
