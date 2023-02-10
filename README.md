@@ -12,8 +12,6 @@ Artificial Intelligence Fundamental Concepts
 [PyTorch installation guide](https://pytorch.org/get-started/locally/)  
 [Google Colab](https://colab.research.google.com/)
 
-
-<!---
 # Deep Learning
 - [TensorFlow 2 quickstart](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/quickstart/beginner.ipynb)  
 -- [Built-in small datasets](https://keras.io/api/datasets/)  
@@ -28,7 +26,7 @@ Artificial Intelligence Fundamental Concepts
 -- [Load NumPy data](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/load_data/numpy.ipynb)  
 -- [Load and preprocess images](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/load_data/images.ipynb)  
 
-
+<!---
 -- [Load CSV data]  
 -- [Load pandas DataFrame]  
 - [Basic image classification](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/keras/classification.ipynb)  
