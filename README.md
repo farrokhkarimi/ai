@@ -24,6 +24,9 @@ Artificial Intelligence Fundamental Concepts
   * [Architectures](https://keras.io/api/applications/)  
   * [Callbacks](https://keras.io/api/callbacks/)  
 * [TensorFlow Datasets](https://colab.research.google.com/github/tensorflow/datasets/blob/master/docs/overview.ipynb) [[Catalog]](https://www.tensorflow.org/datasets/catalog/overview)
+* [Convolutional Neural Network (CNN)](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/images/cnn.ipynb) [[Paper]](https://arxiv.org/pdf/1511.08458.pdf) [[Explainer]](https://poloclub.github.io/cnn-explainer/)  
+* [Image classification, [Overfitting], [Data Augmentation], and [Dropout]](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/images/classification.ipynb)  
+* [Transfer learning and fine-tuning](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/images/transfer_learning.ipynb)
 
 <!--  
 
