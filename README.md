@@ -38,7 +38,9 @@ Artificial Intelligence Fundamental Concepts
 tf.keras.utils.plot_model(model, rankdir="TD", show_shapes=True)
 ```
 
-Parameters: ...
+**Parameters:**
+Fully connected: (the previous layer number of nodes * the next layer number of nodes) + the next layer number of biases
+CNNs: (kernel size (w*h) * number of channels * number of filters) + number of biases
 
 # Author
 https://farrokhkarimi.github.io/
