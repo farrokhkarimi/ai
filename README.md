@@ -33,14 +33,14 @@ Artificial Intelligence Fundamental Concepts
 -->
 
 # Appendix
-**To plot the model:**
+**To plot the model:**  
 ```python3
 tf.keras.utils.plot_model(model, rankdir="TD", show_shapes=True)
 ```
 
-**Parameters:**
-Fully connected: (the previous layer number of nodes * the next layer number of nodes) + the next layer number of biases
-CNNs: (kernel size (w*h) * number of channels * number of filters) + number of biases
+**Parameters:**  
+Fully connected: (the previous layer number of nodes * the next layer number of nodes) + the next layer number of biases  
+CNNs: (kernel size (w*h) * number of channels * number of filters) + number of biases  
 
 # Author
 https://farrokhkarimi.github.io/
