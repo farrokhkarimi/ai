@@ -4,7 +4,7 @@
 Artificial Intelligence Fundamental Concepts
 
 # Fundamental Concepts
-[Natural Neural Network, Artificial Neural Network, and Deep Learning Fundamental Concepts](https://drive.google.com/file/d/1YR66eg-dyoeWLCml2FzefykMhrH3bVoD/view?usp=sharing)
+[Natural Neural Network and Artificial Neural Network Fundamental Concepts](https://docs.google.com/presentation/d/1Q0x1RXbXiUs7bOq1qfQryeZMMfv2GFwcdy0UVR4dNzQ/)
 
 # Image Processing
 [Image Processing with OpenCV](https://github.com/farrokhkarimi/OpenCV) [[Colab notebook link]](https://colab.research.google.com/github/farrokhkarimi/OpenCV/blob/master/Getting_Started_with_OpenCV.ipynb)
