@@ -49,5 +49,8 @@ tf.keras.utils.plot_model(model, rankdir="TD", show_shapes=True)
 FC: (the previous layer number of nodes * the next layer number of nodes) + the next layer number of biases  
 CNNs: (kernel size (w*h) * number of channels * number of filters) + number of biases  
 
+**Conv Feature Map Size:**
+The size of the convoluted matrix is given by C=((I-F+2P)/S)+1, where C is the size of the Convoluted matrix, I is the size of the input matrix, F is the size of the filter matrix and P is the padding applied to the input matrix.
+
 # Author
 https://farrokhkarimi.github.io/
