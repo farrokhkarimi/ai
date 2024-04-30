@@ -4,7 +4,7 @@
 Artificial Intelligence Fundamental Concepts
 
 # Fundamental Concepts
-[Natural Neural Network and Artificial Neural Network Fundamental Concepts](https://docs.google.com/presentation/d/1Q0x1RXbXiUs7bOq1qfQryeZMMfv2GFwcdy0UVR4dNzQ/) [[3D Brain]](http://www.g2conline.org/3dbrain/)
+[Natural Neural Network and Artificial Neural Network Fundamental Concepts]() [[3D Brain]]()
 
 # Image Processing
 [Image Processing with OpenCV](https://github.com/farrokhkarimi/OpenCV) [[Colab notebook link]](https://colab.research.google.com/github/farrokhkarimi/OpenCV/blob/master/Getting_Started_with_OpenCV.ipynb)
